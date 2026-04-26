@@ -1,0 +1,10 @@
+{
+  "name": "cog-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Church of God management system with a local full-stack API server",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}

@@ -1,0 +1,9 @@
+.git
+.env
+.env.local
+.env.production
+.vscode
+node_modules
+npm-debug.log*
+__check_frontend.js
+check-frontend.js
